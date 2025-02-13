@@ -1,0 +1,8 @@
+h1 {
+    border-left: 7px solid #FF6116;
+    padding-left: 10px;
+    font-size: 20px;
+}
+* {
+    font-family: Arial, sans-serif;
+}
