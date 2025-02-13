@@ -1,0 +1,39 @@
+
+* {
+    font-family: Arial, sans-serif;
+}
+p {
+    border-bottom: 1px solid rgb(80, 60, 20);
+    padding: 25px;
+    margin: 0;
+}
+.arrow1 {
+    left: 39cm;
+    bottom: 340px;
+    width: 20px;
+    height: 20px;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    transform: rotate(45deg);
+    position: relative;
+}
+.arrow2 {
+    left: 39cm;
+    bottom: 290px;
+    width: 20px;
+    height: 20px;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    transform: rotate(225deg);
+    position: relative;
+}
+.arrow3 {
+    left: 39cm;
+    bottom: 100px;
+    width: 20px;
+    height: 20px;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+    transform: rotate(45deg);
+    position: relative;
+}
