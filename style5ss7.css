@@ -1,0 +1,53 @@
+.red {
+    margin: auto;
+    border-bottom: 1px solid black;
+    height: 80px;
+    width: 460px;
+    display: block;
+    padding-top: 15px;
+    background-color: #ED1A35;
+    color: #FFFFFF;
+
+}
+* {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.white {
+    
+    margin: auto;
+    width: 460px;
+}
+.total {
+    border: 3px solid black;
+    margin: auto;
+    width: 460px;
+    border-radius: 10px;
+}
+.cam {
+    color: #FF8C00;
+}
+.img {
+    position: relative;
+    left: 200px;
+    bottom: 620px;
+}
+.sign-up {
+    padding: 10px;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: #E31834;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 30px 30px 30px 30px;
+}
+.chitiet {
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #FFFFFF;
+    color: #E31834;
+    border: 1px solid #E31834;
+    border-radius: 30px 30px 30px 30px;
+}
